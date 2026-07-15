@@ -1072,13 +1072,6 @@
       "BV002_streaming"
     ]
   },
-  "interviews/20250714 刘仲敬访谈356：论大而美法案【] [zoj6RXrOdFg].md": {
-    "file": "20250714 刘仲敬访谈356：论大而美法案【] [zoj6RXrOdFg]",
-    "voices": [
-      "BV001_streaming",
-      "BV002_streaming"
-    ]
-  },
   "interviews/20190724 刘仲敬访谈47：爱尔兰共和军，安乐死与宗教习惯法，价格双轨制的世界，秩序与安全的来源.md": {
     "file": "20190724 刘仲敬访谈47：爱尔兰共和军，安乐死与宗教习惯法，价格双轨制的世界，秩序与安全的来源",
     "voices": [
@@ -8580,6 +8573,13 @@
     "file": "20260630 刘仲敬访谈398：论美伊和平协议 [J4Tz6jNk0BI]",
     "voices": [
       "BV001_streaming"
+    ]
+  },
+  "interviews/20250714 刘仲敬访谈356：论大而美法案【20250708】 [zoj6RXrOdFg].md": {
+    "file": "20250714 刘仲敬访谈356：论大而美法案【20250708】 [zoj6RXrOdFg]",
+    "voices": [
+      "BV001_streaming",
+      "BV002_streaming"
     ]
   }
 }
