@@ -4007,5 +4007,725 @@
   "interviews/20181218 刘仲敬访谈15：论欧洲与郑成功.md": [
     "BV001_streaming",
     "BV002_streaming"
-  ]
+  ],
+  "interviews/20181021 刘仲敬访谈7.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 18807,
+      "bytes": 15128301,
+      "duration": 3781.95575,
+      "completedAt": "2026-09-20T12:05:27.915519+00:00",
+      "sourceSha256": "f33e0adc0a22e178871a9f6e86c7b89e3eae7946489a4211013c777a82e50288",
+      "audioSha256": "0205831faafe8bdca3e36c96758dd953ec60c3c3e1d4d6f34cc691513ec26614",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240630 刘仲敬访谈303：论张献忠事件的普遍化 [i6vqrXbO4RY].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 18998,
+      "bytes": 15667149,
+      "duration": 3916.68,
+      "completedAt": "2026-09-20T12:08:33.046670+00:00",
+      "sourceSha256": "4102c99fb937c4178d4986cd9c8de9ce475bfb55f0255a8d8e9e082a2819be0b",
+      "audioSha256": "40755f6a3e0c321c15eb2cc55aeee69ad9d8b9ca013db96c5b179c0dcfb22cba",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190226 刘仲敬访谈25：论土地改革，论伊斯兰在新加坡，论上等人的自由，论文明的本质，与宠物。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17017,
+      "bytes": 13826349,
+      "duration": 3456.48,
+      "completedAt": "2026-09-20T12:06:47.372077+00:00",
+      "sourceSha256": "3d5f11c0c93367e6e7ace75194c2f7d0ccd54ac60292d53079110f7fa3cf4a21",
+      "audioSha256": "f3fe37af2a845c4ccba4872c01343abd2d82ddbdac53fc8d17270c6f27cc706b",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181202 刘仲敬访谈13.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 24387,
+      "bytes": 19751181,
+      "duration": 4937.683583,
+      "completedAt": "2026-09-20T12:05:49.020662+00:00",
+      "sourceSha256": "f3d37f28f2797029936769de560d1a0deed535d397e41db31ea6a254976edb3d",
+      "audioSha256": "bea98d38dbfdaa946828e96176ec95dfd62bc0a27e7710b3a6359a23ade41e67",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190122 刘仲敬访谈20：再论土豪与游士，以及台湾的罗慕路斯时刻。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 23246,
+      "bytes": 18839469,
+      "duration": 4709.76,
+      "completedAt": "2026-09-20T12:06:18.768186+00:00",
+      "sourceSha256": "dcc1b90d77caa0329a747fff174493e68ea9a2d7e9185a2b9b748ad290d3f670",
+      "audioSha256": "04f7b50c61388e9c4fdf8e2881d0fb652a6a0c6d6dd582ee2d3f87c7d8ea516b",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190416 刘仲敬访谈32：论海外流亡与民进党初选及台湾政策.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 23891,
+      "bytes": 19356237,
+      "duration": 4838.952,
+      "completedAt": "2026-09-20T12:07:54.956018+00:00",
+      "sourceSha256": "fe7235e9883d4349377921a632b9cc883951d0387e336af5cf403d68a55715fe",
+      "audioSha256": "d08382d6628a0f4b8c3e39ae05c1b879cddb7c7f36bd20561213a3d501166642",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181127 刘仲敬访谈12.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 18552,
+      "bytes": 14970861,
+      "duration": 3742.608,
+      "completedAt": "2026-09-20T12:05:43.383427+00:00",
+      "sourceSha256": "cca3567e16b9df0ad97b0e2fabd2d1554a7d9fccfe4c77b9bc5ffd09e9bc8e8a",
+      "audioSha256": "2e7e8003ba84566c64ff0bdde4b72b716f0a159ac3bc65567a065e971f4c07dc",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190305 刘仲敬访谈26：论阶层娱乐与共产党的统治逻辑.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 24944,
+      "bytes": 20072973,
+      "duration": 5018.136,
+      "completedAt": "2026-09-20T12:06:58.761772+00:00",
+      "sourceSha256": "a398b9b16786ae93349ecb93cd115c5a74ecb9680af941236ebf2db11ec66503",
+      "audioSha256": "c7035dec58459baf7bc532acc60f10dd4b916317c9d7ab61c1256973b9c9c8b0",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181120 刘仲敬访谈11.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 31419,
+      "bytes": 25488141,
+      "duration": 6371.925542,
+      "completedAt": "2026-09-20T12:07:59.191147+00:00",
+      "sourceSha256": "7c22fceea89be57c8d12457f9f7b79941f32098a96de83c799393f373eb5efdb",
+      "audioSha256": "e019f6ef22c426672ba90889a9a7b043e29675177bc39332c1769a776ba1d0e6",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240623 刘仲敬访谈302：论东突厥斯坦现代史 [mq6U9ay5-3Y].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 18297,
+      "bytes": 15101229,
+      "duration": 3775.2,
+      "completedAt": "2026-09-20T12:08:20.469934+00:00",
+      "sourceSha256": "53d641daf1add9a3ac8c2760a07edfb2d98b656667d03953f5540665a15ec77a",
+      "audioSha256": "8e5d3bee17b56a5c9f85eaa6cbea12cb22b78957745315ceb555d5e58eff1c73",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240714 刘仲敬访谈305：论川普遇刺 [l_6cGS4HwZM].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17687,
+      "bytes": 14643213,
+      "duration": 3660.696,
+      "completedAt": "2026-09-20T12:08:33.647933+00:00",
+      "sourceSha256": "1150782f1382fdd8850e4b1f9437edcecfc8caff6f1f1b47ec6fcd4302339dc7",
+      "audioSha256": "d8521ca63f600e3ec1ab49065edd1c9f1e058c3e57d9c5d90bdc2dcbba33a408",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190409 刘仲敬访谈31：论参政的门槛，论法轮功，再论排华，论中国致命的人口结构。访谈摘要。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 25492,
+      "bytes": 20812845,
+      "duration": 5203.104,
+      "completedAt": "2026-09-20T12:07:42.305124+00:00",
+      "sourceSha256": "dc4307d0ed6de31c794b7b4a6910da8b993abd797746fd659cb083f2b09d8550",
+      "audioSha256": "49d8a1581873896984ea2d733dad386cd6c5c75640fd8ca9c2197c841ba1027e",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181013 刘仲敬访谈6：第六集.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 19639,
+      "bytes": 15900717,
+      "duration": 3975.072,
+      "completedAt": "2026-09-20T12:05:11.411499+00:00",
+      "sourceSha256": "a2f9a2130cd92d7da8907f34b5abda9a29aab3704504f0f01f4d5d65eb9617c3",
+      "audioSha256": "9700953addba848f6382ecf89f0c127ca242ae144f4abe57ce37f5e8dd3011c9",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240922 刘仲敬访谈315：论“历史的垃圾时间” [FrOPtwU7BWQ].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17813,
+      "bytes": 14586957,
+      "duration": 3646.629542,
+      "completedAt": "2026-09-20T12:09:04.944522+00:00",
+      "sourceSha256": "b7e2a125fc449cc30d6ff8c551f76b83d58c3280a676a8f99c18c336f7ef2c56",
+      "audioSha256": "a3b6157441b8b071e3d787bd4c22e5458373df7fff2a0132017d3274b0f9e741",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190319 刘仲敬访谈28：论工会自发秩序与德国战时经济模式.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 33384,
+      "bytes": 27151533,
+      "duration": 6787.776,
+      "completedAt": "2026-09-20T12:07:18.930752+00:00",
+      "sourceSha256": "7bef9a7314dda85d134b88bffd3cd8b9e70b592a810b3d98247de90726576faf",
+      "audioSha256": "29f6ff7a4dac1e90fd910d503205a4b7f2755c1e1f123dab7cf9489fc079dce4",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241027 刘仲敬访谈320：论比特币与加密货币 [2TMp6TQcjIs].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 9601,
+      "bytes": 7904301,
+      "duration": 1975.95575,
+      "completedAt": "2026-09-20T12:09:28.935934+00:00",
+      "sourceSha256": "e05270dc5a98dda6cd90c09e6b937b68634002100259aa7e1271d9ba1b2a79e9",
+      "audioSha256": "6294d71fc58c31c56d574cbbb71a34bbc24f978383c7379ef73454401c152850",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190430 刘仲敬访谈34.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 18302,
+      "bytes": 14937933,
+      "duration": 3734.376,
+      "completedAt": "2026-09-20T12:08:09.265309+00:00",
+      "sourceSha256": "a80b0f6fc51ff0e4febaa25efb77c3af0be487ebbd6a6d0396d7271487deb21f",
+      "audioSha256": "a309a71788c17eb7c08baf0c92eff902d0548a94b6f4530970b6c98670fb36f7",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190513 刘仲敬访谈35：论政治庇护，论狼牙棒的重要性，论岁月静好在中国就是找死.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 22156,
+      "bytes": 17933709,
+      "duration": 4483.32,
+      "completedAt": "2026-09-20T12:08:18.884364+00:00",
+      "sourceSha256": "a06a65c0c790822b54088982317e0d93184c56fea5e45252f61985ac7a1cdcf8",
+      "audioSha256": "362c94a7ad094b73a327d87e03b3136a85e264515ecd3a003bcc719ef6580f22",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190129 刘仲敬访谈21：论罗马与迦太基，论马克思主义的起源。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 22221,
+      "bytes": 17905581,
+      "duration": 4476.288,
+      "completedAt": "2026-09-20T12:06:18.699003+00:00",
+      "sourceSha256": "782b954bb96cd589d70c7b5cb70fc88df03bdf1d3df55f98f6c948516f52234f",
+      "audioSha256": "dfad2f0aaef4ae0f984cafff0d8afbe14167e1e0134529c42c9a3a1b51052015",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190101 刘仲敬访谈17：论新疆与台湾.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 32274,
+      "bytes": 26316813,
+      "duration": 6579.073958,
+      "completedAt": "2026-09-20T12:08:42.804921+00:00",
+      "sourceSha256": "cc98e2122aa77be089adbe5eef5f1380c50cd796129fe04087a7fd4106c2ae56",
+      "audioSha256": "c9683d4eb3507c967b20b8a0bf99cebf5ddfd283f8603386b96120047c36edd0",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241208 刘仲敬访谈326：论叙利亚阿萨德的末日 [chIQxb_wxT4].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 16339,
+      "bytes": 13467309,
+      "duration": 3366.715583,
+      "completedAt": "2026-09-20T12:14:41.979574+00:00",
+      "sourceSha256": "8da8ad758db6df7b5b5d67ee65fcd6220dcd78ebe3ead16ce9e737633c672eb8",
+      "audioSha256": "e819dd5eb635e52902eaf7d29ed44a8f755857ace110c6904c2726c9fdb99e91",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241124 刘仲敬访谈324：论中国的“制度基因” [1M-luMSVrcY].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 18722,
+      "bytes": 15203565,
+      "duration": 3800.784,
+      "completedAt": "2026-09-20T12:26:14.829147+00:00",
+      "sourceSha256": "73f878a939f3ef809218eb2a35fa8e4a45467f77744b3771fb69beec74b8369d",
+      "audioSha256": "547ff4aca94bbad629e24cfc29ddd5f64288c9fd59f8440d721a9e4c0cb5253e",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241103 刘仲敬访谈321：预测2024年美国大选 [JDWzguvO5Vs].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 21572,
+      "bytes": 17800653,
+      "duration": 4450.035417,
+      "completedAt": "2026-09-20T12:12:01.644566+00:00",
+      "sourceSha256": "3ae619e31d8c743c7c683990308ff38ba93691b364f4f2f595a14ffa2a009d09",
+      "audioSha256": "2a4e9bd8304eb1b4afdaa4d8d2d2dc5195b41a5f3648f89e6d2cf75cca2a4699",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181114 刘仲敬访谈10.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 20408,
+      "bytes": 16595085,
+      "duration": 4148.664,
+      "completedAt": "2026-09-20T12:05:34.318868+00:00",
+      "sourceSha256": "7ee697c96ce8c933e818d74cd8bc8939c43f7e895db186619c109f56206dcf63",
+      "audioSha256": "353a7a606f167bb5cfb3279b8f5d6b3601d00e5ac504d610f4590321f596d144",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190409 刘仲敬访谈30：论移民海外的心理准备，论大学入学舞弊事件。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 19112,
+      "bytes": 15496077,
+      "duration": 3873.912,
+      "completedAt": "2026-09-20T12:07:28.923176+00:00",
+      "sourceSha256": "ef30859cc5ec63fde876d7d2c1832a861699054a206ee194363176a4f2b20c13",
+      "audioSha256": "53666284971bad0abc524f5d8821a255eb5d3a0c87518b586e3c7501ee8f9021",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190219 刘仲敬访谈24：论帝国解体谁获益，再论新加坡，论工业党。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 23578,
+      "bytes": 19060365,
+      "duration": 4764.984,
+      "completedAt": "2026-09-20T12:06:34.724643+00:00",
+      "sourceSha256": "3add32496008f534002858a5bee01198d3ec24d9b323323447c142cb0440c218",
+      "audioSha256": "ccf64c8de38d77caf5a5bbe5bf52d4cf2046084d56799f41be1264d6c539f101",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240728 刘仲敬访谈307：论孟加拉的做题家 [Ujx1WAQwkZs].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 24339,
+      "bytes": 19920045,
+      "duration": 4979.904,
+      "completedAt": "2026-09-20T12:08:50.621020+00:00",
+      "sourceSha256": "a1b403ec51ce5d7d1828630e831e906a691fd78a0c96662ffb062a162350bf72",
+      "audioSha256": "9471b4db34597ba7f58362b3a9f2f658cfa83f5db0889c172b24e879249bc5ff",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190430 刘仲敬访谈33：论残暴，论美国的行动自由，论欧洲建制派统战伊斯兰，论阶级与权力的雏型.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 20628,
+      "bytes": 16738701,
+      "duration": 4184.568,
+      "completedAt": "2026-09-20T12:08:06.207552+00:00",
+      "sourceSha256": "71f5ce324e1dc072bfb30dbe8965982549f5ba13f423953aeac59096d201cdc3",
+      "audioSha256": "89885f6afe2abaaac4370782ad430227abbdd570eb2bbe23b9527355f3312171",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241201 刘仲敬访谈325：论中国体育的举国体制 [bMSuL4oceX0].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 19474,
+      "bytes": 15968109,
+      "duration": 3991.92,
+      "completedAt": "2026-09-20T12:26:16.663209+00:00",
+      "sourceSha256": "2c6a92b5dabf4068577998b6741f2cad83da2c9078a621d1316b9a31c0d0f9ad",
+      "audioSha256": "185cb8e717b17e49e6b4b128de3505d8d1cd95e74b2dcd64a26ec20925cbf08f",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241006 刘仲敬访谈317：辛亥革命再解读 [ybh9H_NDYeo].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 21818,
+      "bytes": 18070605,
+      "duration": 4517.521958,
+      "completedAt": "2026-09-20T12:09:09.849823+00:00",
+      "sourceSha256": "881282a99d6153aa8c705d7c4e8a575bf622afee208e67ca9857d88929b9cb20",
+      "audioSha256": "75ee8a3a6304caf6814b27027d5b43c7c4702b258fa191cbddeaaf40df4b475e",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190212 刘仲敬访谈23：论殖民者的退化，论被殖民者如何翻身，论沉船计划。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 30170,
+      "bytes": 24525165,
+      "duration": 6131.184,
+      "completedAt": "2026-09-20T12:06:39.862527+00:00",
+      "sourceSha256": "0c1a2c820e4553d65b70094957e93c167026914f28e39dddf09de3fa9514b3f4",
+      "audioSha256": "70ec168f279710cc9bf7ad79d5d76fe7611b94207c7a3a6aa27823f36b37c476",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190312 刘仲敬访谈27：论共产党为何无法在美中贸易战中让步，论锡克教。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 22368,
+      "bytes": 18284781,
+      "duration": 4571.088,
+      "completedAt": "2026-09-20T12:07:04.108918+00:00",
+      "sourceSha256": "24a51362bc2e3debdd718db1a6e75af3720376991954ae294ff4c55965d020ac",
+      "audioSha256": "83172d17cbda9ccadbd81b81c0295b868d8896b4867d82b63d5ce31fc93d0730",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190115 刘仲敬访谈19：论匪谍带路党，论如何反制，论陷害自己子孙，论香港的末日，论小共同体的力量。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 16535,
+      "bytes": 13406061,
+      "duration": 3351.408,
+      "completedAt": "2026-09-20T12:06:02.258103+00:00",
+      "sourceSha256": "16bfd4394e903b2a93a54ec29127f57b125bd8e1ce90878e14124419b08563d7",
+      "audioSha256": "8555d2d7f5dc69f8eb7a26385bec2e411f3980862d96e93781368de581fb31c4",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241020 刘仲敬访谈319：论朝鲜局势与中国军演 [f-0z2I6hVxk].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 15806,
+      "bytes": 13094733,
+      "duration": 3273.571583,
+      "completedAt": "2026-09-20T12:09:13.877313+00:00",
+      "sourceSha256": "eab72a0c9bc50e96f88ffae915859a647c6a768752337f12fbba2ed0a1de29fc",
+      "audioSha256": "5ea2b549cf2023521f0b069e64194d3b0a5c4f1e0bf2d1f440f7023917fee37e",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190326 刘仲敬访谈29：论小共同体。.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 36555,
+      "bytes": 29443917,
+      "duration": 7360.855333,
+      "completedAt": "2026-09-20T12:10:45.829375+00:00",
+      "sourceSha256": "bf4a2dfd278ac94efc7a6b589f87035beed55acc8954ef2032aec5aff935eefe",
+      "audioSha256": "d56a240c113c693c6e8cb0c0f87b6b1f39b4a483682a66a32bf38dce6e8cd3bf",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20260412 刘仲敬访谈396：论中美太空竞赛 [SgR6M9rdN-k].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 15168,
+      "bytes": 12440013,
+      "duration": 3109.889625,
+      "completedAt": "2026-09-20T12:16:05.515521+00:00",
+      "sourceSha256": "8a1e4b4565710c9c6a249aa4ca853aba39d49a7b81b9c948e95c64b6c1dec6be",
+      "audioSha256": "f49ee3aa116324ef651af9eb2fef3e28634fc3c472160ee1a03047091b5cd767",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241110 刘仲敬访谈322：论大学生夜骑开封 & 论马斯克整顿官僚 [EMoOah_Q9g8].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 16718,
+      "bytes": 13826061,
+      "duration": 3456.403583,
+      "completedAt": "2026-09-20T12:12:02.088927+00:00",
+      "sourceSha256": "7d1a0135fda7a97045abe4fcbffd81a2d9e2a856827247cc17c0cc1776f2698c",
+      "audioSha256": "5f4aed18177d26583766e45058658dedb29c5bf956f8012db86e7807661a9726",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190107 刘仲敬访谈18：改革开放就是奴隶经济体制.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 19483,
+      "bytes": 15803661,
+      "duration": 3950.808,
+      "completedAt": "2026-09-20T12:06:03.065840+00:00",
+      "sourceSha256": "1f2878c25c4abd9dbd4717a64206300c942c41ed2c0a444cbb8abb07e9d4499c",
+      "audioSha256": "2164f8b9526e6fb434f77a93ec35a3456ff5f9d9c0becdd11d475d08a4dd627f",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181106 刘仲敬访谈9.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17657,
+      "bytes": 14306445,
+      "duration": 3576.504,
+      "completedAt": "2026-09-20T12:05:30.003016+00:00",
+      "sourceSha256": "c02b40e930aab6f0a3427868a84e15d1fe2a8830066848aea7ba3fa256ec57a2",
+      "audioSha256": "19b85726c15daa2a98c5acbd3fc22e31d5baee10a24dabc1c891742a7301dc8a",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240901 刘仲敬访谈312：论柯文哲弊案 [ydj2Qs2Aay4].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 25035,
+      "bytes": 20463213,
+      "duration": 5115.673958,
+      "completedAt": "2026-09-20T12:11:24.063515+00:00",
+      "sourceSha256": "66ca2d706c8a481d95a9c03fd4bb0f4ebabaf20d71fbee3e10bfdf5f64c07fb1",
+      "audioSha256": "06883adabac224ec3f7a7050063e8d264d2d4b879a1a701a0d9ce4c83d20653b",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20241117 刘仲敬访谈323：论白区党历史变迁 & 论薄瓜瓜结亲台湾 [NKDIEfAq5Ps].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 20601,
+      "bytes": 16885485,
+      "duration": 4221.241958,
+      "completedAt": "2026-09-20T12:13:54.757354+00:00",
+      "sourceSha256": "e59a7a0a81ae5ffd9434855a5e2d3cc7d3ea04eef0c39d0685f7cd56f553bdf1",
+      "audioSha256": "e8138ba341b18d5297add8f69ffe390a36c6739e03f85fa8a6fbcef83ecaabc4",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240721 刘仲敬访谈306：论越共总书记之死 & 论J·D·万斯 [zb5dnd42X4o].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 15338,
+      "bytes": 12648141,
+      "duration": 3161.907917,
+      "completedAt": "2026-09-20T12:08:43.924128+00:00",
+      "sourceSha256": "67f918df165eaf2191f88e0ab9e5f18c4cb87fe68cc9d9a9aa7565192c5969ea",
+      "audioSha256": "bfe4af40e114ceed9b7824591305a22f0f712a8d69d3cffb0133de00c8de75d9",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181030 刘仲敬访谈8.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17504,
+      "bytes": 14122893,
+      "duration": 3530.616,
+      "completedAt": "2026-09-20T12:05:28.369359+00:00",
+      "sourceSha256": "6d1b6498bca159e3252d66375e30a58782cc0f1e9fc44fccc78b4453142a7f26",
+      "audioSha256": "1faa70a77e26c55454f1ee741cfcf86ca0ee0cf1189e15b13ffa82a8b9e80eed",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20180922 刘仲敬访谈3.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 20760,
+      "bytes": 16739181,
+      "duration": 4184.688,
+      "completedAt": "2026-09-20T12:05:13.190985+00:00",
+      "sourceSha256": "81f4adb79d38739c2774490e00ba146092c3f9036708d840ab39fd73ca37e0ff",
+      "audioSha256": "da57a830c6af09e962971595130c3847ca2724028a421c591509fbd080744008",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240804 刘仲敬访谈308：论”取消文化”(Cancel culture) [gFU70SsRBxw].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17971,
+      "bytes": 14581005,
+      "duration": 3645.144,
+      "completedAt": "2026-09-20T12:08:54.672345+00:00",
+      "sourceSha256": "62927b1aec169d74e7e08bb09f2083ca5633d812ea0b06d9575f5e19377254f1",
+      "audioSha256": "caa0db1708d95bed762033005bc02ad4bec29a9a00dd29820e6618b85cf0b62d",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20240825 刘仲敬访谈311：论乌克兰进攻俄罗斯本土 [Qy3BcCFCalE].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 20208,
+      "bytes": 16767597,
+      "duration": 4191.771917,
+      "completedAt": "2026-09-20T12:08:57.283664+00:00",
+      "sourceSha256": "c4e46bedf115086afeaf09ef95ef909c1127b894d8088a38f39f535611589d8b",
+      "audioSha256": "c7fc0bc9d4ca1ad02ed47937b06fbcfde4a2e883e5db17cc474f349d3c53456d",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20181005 刘仲敬访谈5.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 21995,
+      "bytes": 17959053,
+      "duration": 4489.656,
+      "completedAt": "2026-09-20T12:05:15.308092+00:00",
+      "sourceSha256": "b312ad07a7aedfa4454bfd2bb26baa2c39a05f2e52b49e66ee5075ca3dc01c7a",
+      "audioSha256": "14580c04b442fe237ddc20299515c475f5dac2d95f226409dcd5949c6cdf8c54",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20190102 刘仲敬访谈16：论越南.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 21313,
+      "bytes": 17654925,
+      "duration": 4413.624,
+      "completedAt": "2026-09-20T12:05:50.665160+00:00",
+      "sourceSha256": "ee67dc8a293d90ab2b07be3b51524f8671a40ac9c19b3bd9d113ca2f98212cf4",
+      "audioSha256": "4b2d03a0894731b6b158820b8a550e7520aa1d242df0e57a74f0c44d1d869f7c",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20180928 刘仲敬访谈4.md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17704,
+      "bytes": 14388141,
+      "duration": 3596.928,
+      "completedAt": "2026-09-20T12:05:09.557898+00:00",
+      "sourceSha256": "0a5f3cb88b507ae3d2faa9ffa3cdb1db28d9eebabc68d25713054c347fc45198",
+      "audioSha256": "c9fa2e255f1dc69f4cef8bb55d0bf7d2fd4b16e4a6f92067d2ec4f87017b1a0c",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20220220 刘仲敬访谈180：论东欧局势与政治继承（全文版） [tUbvRwJoWrs].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 19154,
+      "bytes": 17173293,
+      "duration": 4293.216,
+      "completedAt": "2026-09-20T12:13:42.939294+00:00",
+      "sourceSha256": "dc0bede15cd72fa3b2f950ac2ea709299fdb3bf7f0c86cf0b04d662da999f229",
+      "audioSha256": "037a179eb63a10f5d39980e287735b0ae3b224f4adec9c6d96c84da80f4a723a",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20210704 刘仲敬访谈147：论1936年蒋介石战略与“中华民族”魔咒（全文版） [PhSxrWLqCpU].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 17846,
+      "bytes": 16448877,
+      "duration": 4112.09975,
+      "completedAt": "2026-09-20T12:13:07.299892+00:00",
+      "sourceSha256": "f927f569659ddb4e51ba2b3a20bc57a88631bf79feb8d8077876558d7d431bcc",
+      "audioSha256": "5ccdc11cc06fc64cd781883f7d1afbc7fca16acdf3b14045a397b5a1eac72b89",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20211114 刘仲敬访谈166：论东亚宗教与唐宋文学史（全文版） [hl0ZGLOGkeg].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 28657,
+      "bytes": 26274957,
+      "duration": 6568.61925,
+      "completedAt": "2026-09-20T12:13:31.515986+00:00",
+      "sourceSha256": "927982aeccc3d6c9e60061effff020de48395048b7f788a03a472c1c699d3d54",
+      "audioSha256": "dff84f173ddee3ab809d3dbd0f5f4bd95fda1f7bf7e3a2f1b573e2bd1010d366",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20210523 刘仲敬访谈141：论民进党与台湾本土化（全文版） [8Sxzu7PRcj0].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 18570,
+      "bytes": 15301965,
+      "duration": 3825.384,
+      "completedAt": "2026-09-20T12:12:56.711376+00:00",
+      "sourceSha256": "2e0d516c45161fddef6cf14864b5fc1c4b0e7092aa95c8b27305ea2585688e48",
+      "audioSha256": "d10020543f89fbf55ff615ae8bac653904c808df09da2c791c8e44fa4faf02a6",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20260405 刘仲敬访谈395：论核武器的扩散 [I1J0PdauqDU].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 15997,
+      "bytes": 12778701,
+      "duration": 3194.563583,
+      "completedAt": "2026-09-20T12:13:40.907186+00:00",
+      "sourceSha256": "e5dbe427600749768f9c563434bb94dd3deb8806c90d3440ed0e4af2f0fa4951",
+      "audioSha256": "a153daf0254d025ace2d23b036bcbc23c267ce835cecf6907ccc209ec40ca698",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20210321 刘仲敬访谈132：论阿拉伯的劳伦斯，论乌克兰力阻中资并购军工企业（全文版） [S-yr_g9yBDY].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 28867,
+      "bytes": 23498349,
+      "duration": 5874.48,
+      "completedAt": "2026-09-20T12:12:51.014965+00:00",
+      "sourceSha256": "9e19f8b5f71d2facf6f8cad34979a0c4d78a317db540bb9f3a92eef78af4f1b1",
+      "audioSha256": "b717e77bdec49642f331f85be1893f92b7334708d68e710025ad7b834c4532cf",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20210926 刘仲敬访谈159：论澳英美联盟，论孟晚舟获释（全文版） [sITyf0Bq2Tg].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 20961,
+      "bytes": 19322829,
+      "duration": 4830.577958,
+      "completedAt": "2026-09-20T12:13:19.575716+00:00",
+      "sourceSha256": "135a4f9e2f0cfec4f4d0e7474fcfe5b05c06fb447015cfd96b4f61e22f233787",
+      "audioSha256": "8f6d00d296e66450a07d2ae98c3f8c74c7579b547ab69078036aa6ba48ddb65d",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20210502 刘仲敬访谈138：论沦陷区人口问题与“普职比”政策（全文版） [Wig2P0ov80s].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 21096,
+      "bytes": 17170989,
+      "duration": 4292.64,
+      "completedAt": "2026-09-20T12:12:46.468370+00:00",
+      "sourceSha256": "63e1ba6ca507f2c763ff91fa3cdea72803005f6ce7eb360239084f5f28893f45",
+      "audioSha256": "2b82354eb58d8032fa632d8044732cef414603a368b2ba35bd5f98a1510d8ff3",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20211121 刘仲敬访谈167：论西方音乐与低碳经济（全文版） [g0O7IcOv9tM].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 20367,
+      "bytes": 18130317,
+      "duration": 4532.449958,
+      "completedAt": "2026-09-20T12:13:31.886913+00:00",
+      "sourceSha256": "7a9a2bc07c7362cb67b1b570203910c73242037aae4d582caab019cf0a7e983a",
+      "audioSha256": "75f5dd0e2ecc6bbdb7b89644db8a3a369fec4d29793f6bb8e6526315779b33a0",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20210613 刘仲敬访谈144：论土地财政与沦陷区的“三个世界”（全文版） [oeiaTFO81H0].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 22610,
+      "bytes": 18882285,
+      "duration": 4720.45175,
+      "completedAt": "2026-09-20T12:13:03.403865+00:00",
+      "sourceSha256": "29ced27ddd746fa09ce02a9930c65a53078978d006dbcd5aae13fab8d0d895bc",
+      "audioSha256": "130a86e44f4caea783b7676c5431caf002bfcf769d947cc6a1b1722d3b7dd897",
+      "verifiedDecode": true
+    }
+  },
+  "interviews/20210822 刘仲敬访谈154：论汉字的起源（全文版） [hbOY65DS2ZI].md": {
+    "BV001_streaming": {
+      "status": "done",
+      "chars": 19671,
+      "bytes": 16219821,
+      "duration": 4054.843583,
+      "completedAt": "2026-09-20T12:13:14.275804+00:00",
+      "sourceSha256": "6a84976e56fa57f438951702f506935fe0149449002f83f1842f5a5eefaaba67",
+      "audioSha256": "40b8271a762353512343e7b24d2fe80a132ab788aff8534d31728c535b2db57a",
+      "verifiedDecode": true
+    }
+  }
 }
